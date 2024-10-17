@@ -1,0 +1,8 @@
+{
+  "name": "Next.js",
+  "description": "Next.js project built with TailwindCSS and shadcn/ui",
+  "prepare": "npm install",
+  "preview": {
+    "command": "npm run dev"
+  }
+}
