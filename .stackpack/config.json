@@ -1,6 +1,6 @@
 {
   "name": "Next.js",
-  "description": "Next.js project built with TailwindCSS and shadcn/ui",
+  "description": "Next.js + TailwindCSS + shadcn/ui starter project.",
   "prepare": "npm install",
   "preview": {
     "command": "npm run dev"
